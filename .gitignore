@@ -131,4 +131,5 @@ dmypy.json
 # User ignore 
 token.txt
 
-.ide/a*
+.idea/*
+.idea\*
